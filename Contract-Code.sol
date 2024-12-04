@@ -1,4 +1,4 @@
-// test //
+/// It is a cryptocurrency intended exclusively for testing 
 
 pragma solidity ^0.8.0;
 
