@@ -1,4 +1,5 @@
 /// It is a cryptocurrency (version of Geftab) intended exclusively for testing
+/// (currently without its own blockchain, but in the form of a BSC token; there is also an unfinished blockchain that can be presented upon request)
 
 pragma solidity ^0.8.0;
 
