@@ -6,6 +6,8 @@ https://poocoin.app/tokens/0x18b3df529d16a0c4999b7b07833d99868c0b22d2
 BSCscan:
 https://bscscan.com/token/0x18b3df529d16a0c4999b7b07833d99868c0b22d2
 
+I'll be back at the beginning of February. For the next few weeks, I'll prioritize the college exam session.
+
 Other links about this crypto project-Geftab:  
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
