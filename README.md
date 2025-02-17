@@ -32,8 +32,6 @@ Other links about this crypto project-Geftab:
 ➖Группа/Group: https://vk.com/gbfamily_group
 ➖Страница/Page: https://vk.com/geftabgb 
 
-
-
 for any questions you can *contact me* here or on: 
 
 mail (orbert.pn@gmail.com), 
