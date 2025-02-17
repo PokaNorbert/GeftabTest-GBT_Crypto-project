@@ -31,3 +31,21 @@ Other links about this crypto project-Geftab:
 🔵VK:
 ➖Группа/Group: https://vk.com/gbfamily_group
 ➖Страница/Page: https://vk.com/geftabgb 
+
+
+
+for any questions you can *contact me* here or on: 
+
+mail (orbert.pn@gmail.com), 
+
+LinkedIn, 
+
+Facebook, 
+
+Instagram, 
+
+Discord 
+
+or TikTok:
+
+PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert 
