@@ -1,7 +1,5 @@
 # Geftab [GB]-test version
-
 <h2>Links</h2>
-
 Poocoin:
 https://poocoin.app/tokens/0x18b3df529d16a0c4999b7b07833d99868c0b22d2
 
@@ -9,7 +7,6 @@ BSCscan:
 https://bscscan.com/token/0x18b3df529d16a0c4999b7b07833d99868c0b22d2
 
 <h2>Other links about this crypto project-Geftab:</h2>  
-
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
 
